@@ -3,7 +3,7 @@ const serverlessMysql = require("serverless-mysql");
 const db = serverlessMysql({
   config: {
     host: "localhost",
-    database: "maeng",
+    database: "rhea",
     user: "root",
     password: "",
     port: 3306,
